@@ -12,7 +12,7 @@ for num in range(2, number + 1):
             i = num
             break;
 
-    # If the number is prime then print it.
+  
     if(i != num):
         print(num, end=" ")
         
@@ -29,6 +29,6 @@ for num in range(2, number + 1):
             i != num
             break;
 
-    # If the number is prime then print it.
+   
     if(i != num):
         print(num, end=" ")
